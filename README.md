@@ -2,9 +2,9 @@
 
 🔹 **Engenheiro de Software | Full Stack | Focado em Arquitetura & Resolução de Problemas**
 
-Sou um desenvolvedor com pensamento voltado para otimização, eficiência e arquitetura de software. Com uma forte base em prototipagem e design de sistemas complexos, meu objetivo no dia a dia é direto: desenvolver, integrar, conectar e resolver o B.O., seja qual for o ecossistema.
+Sou um desenvolvedor com pensamento voltado para otimização, eficiência e arquitetura de software. Experiência em prototipagem e design de sistemas complexos, meu objetivo no dia a dia é desenvolver, integrar, conectar e resolver o B.O., seja qual for o ecossistema.
 
-Acredito que linguagens e frameworks são apenas utilitários na maleta de um engenheiro, e o segredo é sempre puxar a ferramenta certa para o trabalho certo. Apesar do meu amor declarado pelo **Java**, amo construir microsserviços em **Go**, subir APIs em Python e, principalmente, debugar — sendo este último o meu esporte preferido.
+Acredito que linguagens e frameworks são apenas ferramentas na maleta de um engenheiro, e o segredo é sempre puxar a ferramenta certa para o trabalho certo. Apesar do meu amor declarado pelo **Java**, amo construir microsserviços em **Go** (APENAS SE NECESSÁRIO KKKK), subir APIs em Python e, principalmente, debugar, sendo este último o meu esporte preferido.
 
 ### 🧰 Minha Caixa de Ferramentas
 
@@ -28,7 +28,7 @@ Acredito que linguagens e frameworks são apenas utilitários na maleta de um en
 ### 🎙️ Narrador IA (Minecraft Mod)
 Um sistema narrativo reativo e em tempo real para Minecraft, onde uma Inteligência Artificial julga, narra e reage às ações do jogador dinamicamente. 
 - **Arquitetura:** O cliente (Java/Fabric) atua como um sensor de telemetria inteligente, possuindo um compressor de eventos e sistema de buffer anti-perda. Ele se comunica via HTTP com o servidor local (Python/FastAPI).
-- **Cérebro (IA):** O backend processa a matemática de engajamento do jogador (risco, tédio e progresso) para ditar o tom da cena e faz a inferência usando LLMs locais (Ollama) ou em nuvem (Groq API).
+- **Cérebro (IA):** O backend processa a matemática de engajamento do jogador (risco, tédio e progresso) para ditar o tom da cena e faz a inferência usando LLMs locais (Ollama) ou em nuvem (Este último apenas para experientes).
 - **Output:** Geração de áudio TTS assíncrono em tempo real (Stream) direto para o cliente do jogo.
 - **Stack:** `Java` `Fabric API` `Python` `FastAPI` `Prompt Engineering` `LLM`
 
